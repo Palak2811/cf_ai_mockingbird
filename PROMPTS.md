@@ -104,4 +104,15 @@ These steps follow from the original brief ("run the application locally, test t
 - Renamed `PROMPT_HISTORY.md` to `PROMPTS.md` and added the live URL to the README.
 - Initialised a git repository with a first commit, ready to push to a GitHub repo named `cf_ai_mockingbird`.
 
+---
+
+## Prompt 7 — Publish to GitHub
+
+- **Date:** 2026-09-21
+- **Type:** [exact]
+
+> make github repo and push the code too
+
+**Result:** Created the public repository https://github.com/Palak2811/cf_ai_mockingbird with `gh repo create`, including the description and homepage link, and pushed `main`.
+
 <!-- Add further prompts below as development continues. -->
