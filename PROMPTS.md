@@ -115,4 +115,15 @@ These steps follow from the original brief ("run the application locally, test t
 
 **Result:** Created the public repository https://github.com/Palak2811/cf_ai_mockingbird with `gh repo create`, including the description and homepage link, and pushed `main`.
 
+---
+
+## Prompt 8 — Final status check
+
+- **Date:** 2026-09-21
+- **Type:** [exact]
+
+> everything done?
+
+**Result:** Confirmed completion status; only this entry was added.
+
 <!-- Add further prompts below as development continues. -->
